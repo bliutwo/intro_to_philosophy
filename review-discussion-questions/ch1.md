@@ -23,3 +23,5 @@ In other words, humans inquire into things not addressed by science.
 - "What is knowledge?
 - "Can we have any knowledge at all?
 - "Can we have knowledge about more specific matters, like the laws of nature, fundamental moral principles, or the existence of other minds?"
+
+"While epistemology is concerned with what we ought to believe and how we ought to reason, **Ethics** is concerned with what we ought to do, how we ought to live, and how we ought to organize our communities."
