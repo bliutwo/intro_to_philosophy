@@ -18,4 +18,8 @@ In other words, humans inquire into things not addressed by science.
 
 > Some epistemological and ethical issues?
 
+"**Epistemology** is concerned with the nature of knowledge and justified belief. Here are a few noteworthy epistemological questions:
 
+- "What is knowledge?
+- "Can we have any knowledge at all?
+- "Can we have knowledge about more specific matters, like the laws of nature, fundamental moral principles, or the existence of other minds?"
